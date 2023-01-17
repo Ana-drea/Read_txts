@@ -1,0 +1,39 @@
+AUTODESK STATISTICS - VERSION: $Revision: 189 $
+
+--------------------------------------------------------------------------------
+------------------------------------- ITA --------------------------------------
+--------------------------------------------------------------------------------
+                                                    [String]    [Word]    [Char]
+Total new      to translate (w/o repeated):                0         0         0
+Total updated  to translate (w/o repeated):                0         0         0
+Total repeated to translate:                               0         0         0
+Total          to post-edit (MT):                          2         4        21
+Total          to review:                                  3         3        22
+--------------------------------------------------------------------------------
+                                                       [Day]
+Estimated translation time:                              0.2
+--------------------------------------------------------------------------------
+                                                    [String]    [Word]    [Char]
+
+- completionlibrarydcl.i18n.json (\ita\enu\out\completion)
+New     to translate (w/ repeated):                        0         0         0
+Updated to translate (w/ repeated):                        0         0         0
+        To post-edit (MT):                                 1         1         4
+        To review:                                         2         2        13
+
+- completionproviderdcl.i18n.json (\ita\enu\out\completion)
+New     to translate (w/ repeated):                        0         0         0
+Updated to translate (w/ repeated):                        0         0         0
+        To post-edit (MT):                                 1         3        17
+        To review:                                         1         1         9
+--------------------------------------------------------------------------------
+                                                    [String]    [Word]    [Char]
+Total src new:                                             5         7        43
+Total src changed:                                         0         0         0
+Total src in this database:                              158       992      5897
+
+Total loc in the translation bundle:                     158       992      5897
+--------------------------------------------------------------------------------
+Note: The total number of repeated strings/words/characters is calculated
+      for the bundle as a whole, not for individual files.               
+--------------------------------------------------------------------------------
